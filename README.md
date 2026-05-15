@@ -1,4 +1,4 @@
-# Bhavini — Heirloom Indian Clothing
+# Bhavini — BAP Indian Clothing
 
 A multi-page Next.js + Tailwind CSS Indian boutique website, curated for Amit Patel.
 
