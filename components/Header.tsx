@@ -18,7 +18,7 @@ export default function Header() {
       <div className="bg-maroon text-ivory text-xs">
         <div className="mx-auto max-w-7xl px-6 py-2 flex items-center justify-between">
           <span className="tracking-[0.18em] uppercase">Welcome to Bhavini Shop</span>
-          <span className="hidden sm:inline tracking-[0.18em] uppercase">Atelier visits by appointment — Ahmedabad &amp; Mumbai</span>
+          <span className="hidden sm:inline tracking-[0.18em] uppercase">See our Latest Arrival Coming Soon</span>
         </div>
       </div>
 
